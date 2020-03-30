@@ -1,0 +1,27 @@
+{
+  "name": "inn-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/inn-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spb-web/inn-parser.git"
+  },
+  "keywords": [
+    "inn",
+    "parser"
+  ],
+  "author": "V.Ruzanov <spb.web@bk.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spb-web/inn-parser/issues"
+  },
+  "homepage": "https://github.com/spb-web/inn-parser#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
